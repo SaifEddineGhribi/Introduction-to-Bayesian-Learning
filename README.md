@@ -6,6 +6,7 @@
 
 Place: Télécom ParisTech
 
+Programming Language : R
 
 <b>Syllabus</b>:
 <br>
