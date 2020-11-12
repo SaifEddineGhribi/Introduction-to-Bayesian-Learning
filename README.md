@@ -8,6 +8,7 @@ Place: Télécom ParisTech
 
 
 <b>Syllabus</b>:
+<br>
 Week 1: Bayesian learning: basics.
 Bayesian model, prior-posterior, examples.
 Point and interval estimation.
